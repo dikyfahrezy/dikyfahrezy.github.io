@@ -1,0 +1,28 @@
+.hero {
+  padding-top: 5rem;
+  background-color: #7d92ad;
+  color: #e9f0f8;
+}
+section {
+  padding-top: 5rem;
+}
+.btn {
+  background-color: #344966;
+  color: #e9f0f8;
+  border: 1px solid #344966;
+}
+.btn:hover {
+  background-color: #e9f0f8;
+  color: #344966;
+  border: 1px solid #344966;
+}
+footer {
+  background-color: #0d1821;
+  color: #e9f0f8;
+}
+footer a {
+  color: #e9f0f8;
+}
+footer a:visited {
+  color: #b4cded;
+}
