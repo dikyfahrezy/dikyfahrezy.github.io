@@ -6,6 +6,9 @@
 section {
   padding-top: 5rem;
 }
+section div > a {
+  text-decoration: none;
+}
 .btn {
   background-color: #344966;
   color: #e9f0f8;
@@ -29,4 +32,14 @@ footer a:visited {
 }
 .btn-loading {
   background-color: #344966;
+}
+.card {
+  overflow: hidden;
+}
+.card-body {
+  background-color: #344966;
+  color: white;
+  border-radius: 8px 8px 0 0;
+  width: 100%;
+  margin-top: -6px;
 }
